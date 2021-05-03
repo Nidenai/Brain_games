@@ -1,4 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Nidenai/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Nidenai/python-project-lvl1/actions)
 
-https://asciinema.org/a/jw0IaFcuUn3laXMIeMtlUajhP
+Проверка на четность: https://asciinema.org/a/jw0IaFcuUn3laXMIeMtlUajhP
+
+Игра калькулятор: https://asciinema.org/a/pEV7ji79cMptxCHhxLKJyNa1m
