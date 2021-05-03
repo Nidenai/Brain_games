@@ -4,3 +4,5 @@
 Проверка на четность: https://asciinema.org/a/jw0IaFcuUn3laXMIeMtlUajhP
 
 Игра калькулятор: https://asciinema.org/a/pEV7ji79cMptxCHhxLKJyNa1m
+
+Игра "найди делитель" https://asciinema.org/a/XwndjIAFpuxukuUuXqBSNVATk
