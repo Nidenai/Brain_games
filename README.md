@@ -8,3 +8,5 @@
 Игра "найди делитель" https://asciinema.org/a/XwndjIAFpuxukuUuXqBSNVATk
 
 Игра "прогрессия" https://asciinema.org/a/LiODcpsoGgc8M63ZaX9inD1Jf
+
+Игра "нахождение простых чисел" https://asciinema.org/a/yCTiNHhEV0EyvY5oca4abo9jr
