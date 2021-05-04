@@ -6,3 +6,5 @@
 Игра калькулятор: https://asciinema.org/a/pEV7ji79cMptxCHhxLKJyNa1m
 
 Игра "найди делитель" https://asciinema.org/a/XwndjIAFpuxukuUuXqBSNVATk
+
+Игра "прогрессия" https://asciinema.org/a/LiODcpsoGgc8M63ZaX9inD1Jf
