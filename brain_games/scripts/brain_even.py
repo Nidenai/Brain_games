@@ -1,4 +1,9 @@
+#!/usr/bin/env python
 from brain_games.games.even import even
-from brain_engine import brain_games
+from brain_games.scripts.brain_engine import brain_play
 
-brain_games(even())
+def main():
+    brain_play(even())
+
+if __name__ == '__main__':
+    main()

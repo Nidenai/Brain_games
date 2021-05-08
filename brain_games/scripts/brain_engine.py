@@ -1,8 +1,10 @@
+#!/usr/bin/env python
 import prompt
 
 
 
-def brain_games(task_text, question, real_answer):
+def brain_play(function):
+    (task_text, question, real_answer) = function
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print('Hello, ' + name + '!')
