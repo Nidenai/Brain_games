@@ -4,13 +4,12 @@ import prompt
 
 
 def brain_play(function):
-    (task_text, question, real_answer) = function
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print('Hello, ' + name + '!')
     x = 0
     while x < 3:
-        print(task_text)
+        question, real_answer = function
         print('Question: ' + str(question))
         print('Your answer:', end='')
         answer = input()

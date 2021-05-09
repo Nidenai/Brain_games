@@ -1,5 +1,5 @@
 from random import randint
-
+TEXT_TASK = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 def even():
     question = randint(1, 100)
@@ -7,8 +7,7 @@ def even():
         real_answer = 'yes'
     else:
         real_answer = 'no'
-    task_text = 'Answer "yes" if the number is even, otherwise answer "no".'
-    return (task_text, question, real_answer)
+    return (question, real_answer)
 
 
 print(even())
