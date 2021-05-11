@@ -1,7 +1,7 @@
 from random import randint
 from random import choice
 
-def calc():
+def function():
     random_num_one = randint(1, 100)
     randon_num_two = randint(1, 100)
     play_sum = str(random_num_one) + ' + ' + str(randon_num_two)
@@ -17,7 +17,6 @@ def calc():
         real_answer = real_min
     else:
         real_answer = real_mult
-    text_task = 'What is the result of the expression?'
-    return(text_task, question, real_answer)
+    return(question, real_answer)
 
-print(calc())
+TASK_TEXT = 'What is the result of the expression?'
