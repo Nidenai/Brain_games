@@ -1,6 +1,7 @@
 from random import randint
 from random import choice
 
+
 def generate():
     random_num_one = randint(1, 100)
     randon_num_two = randint(1, 100)
@@ -18,5 +19,6 @@ def generate():
     else:
         real_answer = real_mult
     return(question, real_answer)
+
 
 TASK_TEXT = 'What is the result of the expression?'
