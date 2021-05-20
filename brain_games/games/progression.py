@@ -1,6 +1,7 @@
 from random import randint
 
-#создал функцию для создания арифметической прогрессии. Потому что найти ничего подобного не нашел.
+
+# создал функцию для создания прогрессии
 def ar_progress(start_number, step, length):
     result = [start_number]
     x = 0
@@ -9,6 +10,7 @@ def ar_progress(start_number, step, length):
         result.append(start_number)
         x = x + 1
     return result
+
 
 def generate():
     first_num = randint(1, 100)
@@ -23,5 +25,5 @@ def generate():
     question = ' '.join(map(str, list_middle))
     return (question, real_answer)
 
-TASK_TEXT = 'What number is missing in the progression?'
 
+TASK_TEXT = 'What number is missing in the progression?'
