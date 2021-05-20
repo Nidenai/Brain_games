@@ -17,7 +17,7 @@ def generate():
     list_step = randint(1, 100)
     list_lenght = randint(5, 9)
     rand_progress = ar_progress(first_num, list_step, list_lenght)
-    random_element = randint(0, (len(rand_progress)-1))
+    random_element = randint(0, (len(rand_progress) - 1))
     real_answer = rand_progress[random_element]
     list_middle = rand_progress
     list_middle.pop(random_element)
