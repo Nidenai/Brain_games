@@ -8,6 +8,7 @@ def run(game):
     print(game.TASK_TEXT)
     current_round = 0
     TOTAL_ROUND = 3
+    WRONG_ANSWER = "' is wrong answer ;(. Correct answer was "
     while current_round < TOTAL_ROUND:
         question, real_answer = game.generate()
         print('Question: ' + str(question))
@@ -17,7 +18,7 @@ def run(game):
             print('Correct!')
             current_round = current_round + 1
         else:
-            print("'" + str(answer) + "' is wrong answer ;(. Correct answer was " + str(real_answer) + ".")
+            print("'" + str(answer) + WRONG_ANSWER + str(real_answer) + ".")
             break
     if current_round == TOTAL_ROUND:
         print('Congratulations, ' + name + '!')
