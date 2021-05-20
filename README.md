@@ -3,10 +3,10 @@
 
 Проверка на четность: [![asciicast](https://asciinema.org/a/VDhJgexmtxzhOWvynfCAPstFj.svg)](https://asciinema.org/a/VDhJgexmtxzhOWvynfCAPstFj)
 
-Игра калькулятор: https://asciinema.org/a/pEV7ji79cMptxCHhxLKJyNa1m
+Игра калькулятор: [![asciicast](https://asciinema.org/a/I5jsXJyXq47x957Br3J7yON6P.svg)](https://asciinema.org/a/I5jsXJyXq47x957Br3J7yON6P)
 
-Игра "найди делитель" https://asciinema.org/a/XwndjIAFpuxukuUuXqBSNVATk
+Игра "найди делитель" [![asciicast](https://asciinema.org/a/2ycFU2z3CnTYhGo2fg0HsiWcw.svg)](https://asciinema.org/a/2ycFU2z3CnTYhGo2fg0HsiWcw)
 
-Игра "прогрессия" https://asciinema.org/a/LiODcpsoGgc8M63ZaX9inD1Jf
+Игра "прогрессия" [![asciicast](https://asciinema.org/a/DdHs2tGek0zjsfYWl28ldVcPR.svg)](https://asciinema.org/a/DdHs2tGek0zjsfYWl28ldVcPR)
 
-Игра "нахождение простых чисел" https://asciinema.org/a/yCTiNHhEV0EyvY5oca4abo9jr
+Игра "нахождение простых чисел" [![asciicast](https://asciinema.org/a/WuWvXasYu4azSNKuqTMzRDO3x.svg)](https://asciinema.org/a/WuWvXasYu4azSNKuqTMzRDO3x)
