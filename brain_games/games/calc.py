@@ -1,7 +1,7 @@
 from random import randint
 from random import choice
 
-def function():
+def generate():
     random_num_one = randint(1, 100)
     randon_num_two = randint(1, 100)
     play_sum = str(random_num_one) + ' + ' + str(randon_num_two)

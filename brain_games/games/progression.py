@@ -10,7 +10,7 @@ def ar_progress(start_number, step, length):
         x = x + 1
     return result
 
-def function():
+def generate():
     first_num = randint(1, 100)
     list_step = randint(1, 100)
     list_lenght = randint(5, 9)

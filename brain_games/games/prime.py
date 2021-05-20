@@ -8,7 +8,7 @@ def IsPrime(n):
     return d * d > n
 
 
-def function():
+def generate():
     question = randint(2, 1000)
     required_num = IsPrime(question)
     if required_num == True:

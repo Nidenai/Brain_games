@@ -2,7 +2,7 @@ from random import randint
 from math import gcd
 
 
-def function():
+def generate():
     random_num_one = randint(1, 100)
     randon_num_two = randint(1, 100)
     question = str(random_num_one) + ' ' + str(randon_num_two)
