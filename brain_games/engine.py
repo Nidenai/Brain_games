@@ -1,26 +1,25 @@
 import prompt
 
 
+WRONG_ANSWER = "' is wrong answer ;(. Correct answer was "
+TOTAL_ROUND = 3
+
+
 def run(game):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
     print(game.TASK_TEXT)
     current_round = 0
-    TOTAL_ROUND = 3
-    WRONG_ANSWER = "' is wrong answer ;(. Correct answer was "
     while current_round < TOTAL_ROUND:
-        question, real_answer = game.generate()
+        question, real_answer = game.generate_round()
         print('Question: ' + str(question))
-        print('Your answer:', end='')
-        answer = input()
+        answer = prompt.string('Your answer:')
         if str(answer) == str(real_answer):
             print('Correct!')
-            current_round = current_round + 1
+            current_round += 1
         else:
             print("'" + str(answer) + WRONG_ANSWER + str(real_answer) + ".")
-            break
-    if current_round == TOTAL_ROUND:
-        print('Congratulations, ' + name + '!')
-    else:
-        print("Let's try again, " + name + '!')
+            print("Let's try again, " + name + '!')
+            return
+    print('Congratulations, ' + name + '!')

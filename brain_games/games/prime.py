@@ -1,21 +1,26 @@
 from random import randint
 
 
-def IsPrime(n):
-    d = 2
-    while d * d <= n and n % d != 0:
-        d += 1
-    return d * d > n
+TASK_TEXT = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
-def generate():
-    question = randint(2, 1000)
-    required_num = IsPrime(question)
+def prime_check(n):
+    if n > 1:
+        d = 2
+        while d * d <= n and n % d != 0:
+            d += 1
+        return d * d > n
+    else:
+        return False
+
+
+def generate_round():
+    question = randint(0, 1000)
+    required_num = prime_check(question)
     if required_num is True:
         real_answer = 'yes'
     else:
         real_answer = 'no'
-    return (question, real_answer)
+    return question, real_answer
 
-
-TASK_TEXT = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+print(generate_round())
