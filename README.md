@@ -4,7 +4,6 @@
 [![Actions Status](https://github.com/Nidenai/python-project-lvl1/workflows/python-package/badge.svg)](https://github.com/Nidenai/python-project-lvl1/actions)
 
 
-
 установка пакета: [![asciicast](https://asciinema.org/a/Ti3SSN0mo9jXO0iarBf4gHQxx.svg)](https://asciinema.org/a/Ti3SSN0mo9jXO0iarBf4gHQxx)
 
 Проверка на четность: [![asciicast](https://asciinema.org/a/tZYS9HFfMHAouieukieXJiMCx.svg)](https://asciinema.org/a/tZYS9HFfMHAouieukieXJiMCx)
