@@ -1,14 +1,18 @@
 
 [![Actions Status](https://github.com/Nidenai/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Nidenai/python-project-lvl1/actions)
-[![Actions Status](https://github.com/Nidenai/python-project-lvl1/workflows/python_pacakge/badge.svg)](https://github.com/Nidenai/python-project-lvl1/actions)
+
+[![Actions Status](https://github.com/Nidenai/python-project-lvl1/workflows/python-package/badge.svg)](https://github.com/Nidenai/python-project-lvl1/actions)
 
 
-Проверка на четность: [![asciicast](https://asciinema.org/a/VDhJgexmtxzhOWvynfCAPstFj.svg)](https://asciinema.org/a/VDhJgexmtxzhOWvynfCAPstFj)
 
-Игра калькулятор: [![asciicast](https://asciinema.org/a/I5jsXJyXq47x957Br3J7yON6P.svg)](https://asciinema.org/a/I5jsXJyXq47x957Br3J7yON6P)
+установка пакета: [![asciicast](https://asciinema.org/a/Ti3SSN0mo9jXO0iarBf4gHQxx.svg)](https://asciinema.org/a/Ti3SSN0mo9jXO0iarBf4gHQxx)
 
-Игра "найди делитель" [![asciicast](https://asciinema.org/a/2ycFU2z3CnTYhGo2fg0HsiWcw.svg)](https://asciinema.org/a/2ycFU2z3CnTYhGo2fg0HsiWcw)
+Проверка на четность: [![asciicast](https://asciinema.org/a/tZYS9HFfMHAouieukieXJiMCx.svg)](https://asciinema.org/a/tZYS9HFfMHAouieukieXJiMCx)
 
-Игра "прогрессия" [![asciicast](https://asciinema.org/a/DdHs2tGek0zjsfYWl28ldVcPR.svg)](https://asciinema.org/a/DdHs2tGek0zjsfYWl28ldVcPR)
+Игра калькулятор: [![asciicast](https://asciinema.org/a/4jCu5puIqEVuI3bTQIpJ61n2w.svg)](https://asciinema.org/a/4jCu5puIqEVuI3bTQIpJ61n2w)
 
-Игра "нахождение простых чисел" [![asciicast](https://asciinema.org/a/WuWvXasYu4azSNKuqTMzRDO3x.svg)](https://asciinema.org/a/WuWvXasYu4azSNKuqTMzRDO3x)
+Игра "найди делитель" [![asciicast](https://asciinema.org/a/HbBG8gGT5KjVt2ebA8wygr6hh.svg)](https://asciinema.org/a/HbBG8gGT5KjVt2ebA8wygr6hh)
+
+Игра "прогрессия" [![asciicast](https://asciinema.org/a/CvnJY5NLVlifFBj33fUs5oVsY.svg)](https://asciinema.org/a/CvnJY5NLVlifFBj33fUs5oVsY)
+
+Игра "нахождение простых чисел" [![asciicast](https://asciinema.org/a/Hi0JUoUQWmiJjBPfuIC6zVlAF.svg)](https://asciinema.org/a/Hi0JUoUQWmiJjBPfuIC6zVlAF)
