@@ -22,5 +22,3 @@ def generate_round():
     else:
         real_answer = 'no'
     return question, real_answer
-
-print(generate_round())

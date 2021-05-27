@@ -14,7 +14,6 @@ def calculate(a, b, symbol):
         return a * b
 
 
-
 def generate_round():
     num1 = randint(1, 100)
     num2 = randint(1, 100)

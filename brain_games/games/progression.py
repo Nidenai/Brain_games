@@ -25,4 +25,3 @@ def generate_round():
     progression[index] = '..'
     question = ' '.join(map(str, progression))
     return question, real_answer
-
