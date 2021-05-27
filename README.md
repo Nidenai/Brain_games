@@ -1,6 +1,6 @@
 
 [![Actions Status](https://github.com/Nidenai/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Nidenai/python-project-lvl1/actions)
-[![Actions Status](https://github.com/Nidenai/python-project-lvl1/workflows/python_pacakge/badge.svg)](https://github.com/Nidenai/python-project-lvl1/actions)
+[![Actions Status](https://github.com/Nidenai/python-project-lvl1/workflows/python_package/badge.svg)](https://github.com/Nidenai/python-project-lvl1/actions)
 
 
 Проверка на четность: [![asciicast](https://asciinema.org/a/VDhJgexmtxzhOWvynfCAPstFj.svg)](https://asciinema.org/a/VDhJgexmtxzhOWvynfCAPstFj)
