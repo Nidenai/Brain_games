@@ -8,7 +8,7 @@ def get_progression(start_number, step, length):
     result = [start_number]
     x = 0
     while x < length:
-        start_number = start_number + step
+        start_number += step
         result.append(start_number)
         x = x + 1
     return result
