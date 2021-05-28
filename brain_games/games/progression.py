@@ -1,6 +1,5 @@
 from random import randint
 
-
 TASK_TEXT = 'What number is missing in the progression?'
 
 

@@ -1,6 +1,5 @@
 import prompt
 
-
 WRONG_ANSWER = "' is wrong answer ;(. Correct answer was "
 TOTAL_ROUND = 3
 
@@ -13,13 +12,13 @@ def run(game):
     current_round = 0
     while current_round < TOTAL_ROUND:
         question, real_answer = game.generate_round()
-        print('Question: ' + str(question))
+        print(f'Question: {str(question)}')
         answer = prompt.string('Your answer:')
         if str(answer) == str(real_answer):
             print('Correct!')
             current_round += 1
         else:
-            print("'" + str(answer) + WRONG_ANSWER + str(real_answer) + ".")
-            print("Let's try again, " + name + '!')
+            print(f"{str(answer)}{WRONG_ANSWER}{str(real_answer)}.")
+            print(f"Let's try again, {name}!")
             return
-    print('Congratulations, ' + name + '!')
+    print(f'Congratulations, {name}!')

@@ -1,6 +1,5 @@
 from random import randint
 
-
 TASK_TEXT = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 

@@ -1,17 +1,15 @@
 from random import randint
 
-
 TASK_TEXT = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
 def prime_check(n):
-    if n > 1:
-        d = 2
-        while d * d <= n and n % d != 0:
-            d += 1
-        return d * d > n
-    else:
+    if n < 2:
         return False
+    d = 2
+    while d * d <= n and n % d != 0:
+        d += 1
+    return d * d > n
 
 
 def generate_round():

@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-from brain_games.games import prime
 from brain_games.engine import run
+from brain_games.games import prime
 
 
 def main():
