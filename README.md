@@ -3,6 +3,7 @@
 
 [![Actions Status](https://github.com/Nidenai/python-project-lvl1/workflows/python-package/badge.svg)](https://github.com/Nidenai/python-project-lvl1/actions)
 
+<a href="https://codeclimate.com/github/Nidenai/python-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/30dbceecce320e43eb9a/maintainability" /></a>
 
 установка пакета: [![asciicast](https://asciinema.org/a/Ti3SSN0mo9jXO0iarBf4gHQxx.svg)](https://asciinema.org/a/Ti3SSN0mo9jXO0iarBf4gHQxx)
 
